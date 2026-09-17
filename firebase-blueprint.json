@@ -1,0 +1,49 @@
+{
+  "entities": {
+    "users": {
+      "title": "Users",
+      "description": "Clinic staff users",
+      "properties": {
+        "id": { "type": "string" },
+        "username": { "type": "string" },
+        "name": { "type": "string" },
+        "role": { "type": "string" },
+        "password": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["id", "username", "name", "role", "password"]
+    },
+    "patients": {
+      "title": "Patients",
+      "description": "Registered clinic patients",
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "phone": { "type": "string" },
+        "sex": { "type": "string" },
+        "maritalStatus": { "type": "string" },
+        "age": { "type": "number" },
+        "bloodGroup": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["id", "name"]
+    },
+    "records": {
+      "title": "Clinic Records",
+      "description": "Consultations, triage, lab requests and prescriptions",
+      "properties": {
+        "id": { "type": "string" },
+        "patientId": { "type": "string" },
+        "date": { "type": "string" }
+      },
+      "required": ["id", "patientId"]
+    },
+    "config": {
+      "title": "Clinic Configurations",
+      "description": "Lab tests and extra services configuration",
+      "properties": {
+        "id": { "type": "string" }
+      }
+    }
+  }
+}

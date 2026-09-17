@@ -1,0 +1,6 @@
+{
+  "name": "Jul Medicare",
+  "description": "A full-stack clinic and pharmacy app for medical departments including Doctor consultations, Triage, Pathology lab tests, and Pharmacist dispensing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

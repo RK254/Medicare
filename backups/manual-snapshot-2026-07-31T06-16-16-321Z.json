@@ -1,0 +1,2782 @@
+{
+  "meta": {
+    "id": "bk_1785478576321",
+    "filename": "manual-snapshot-2026-07-31T06-16-16-321Z.json",
+    "type": "manual",
+    "createdAt": "2026-07-31T06:16:16.321Z",
+    "patientCount": 17,
+    "recordCount": 31,
+    "userCount": 12
+  },
+  "database": {
+    "patients": [
+      {
+        "id": "0705331027",
+        "name": "Catherine Kaloki",
+        "phone": "0705331027",
+        "sex": "Female",
+        "maritalStatus": "Married",
+        "age": 39,
+        "bloodGroup": "O+",
+        "createdAt": "2026-07-28T02:52:24.913Z"
+      },
+      {
+        "id": "0714826117",
+        "name": "abel murimi",
+        "phone": "0714826117",
+        "sex": "Male",
+        "maritalStatus": "Married",
+        "age": 30,
+        "bloodGroup": "O+",
+        "createdAt": "2026-07-27T19:58:27.524Z"
+      },
+      {
+        "id": "0727440080 or 0716620600",
+        "name": "Peninah Mwatu",
+        "phone": "0727440080",
+        "sex": "Female",
+        "maritalStatus": "Married",
+        "age": 57,
+        "bloodGroup": "O+",
+        "createdAt": "2026-07-27T19:37:14.336Z"
+      },
+      {
+        "id": "0797931730",
+        "name": "kelvin ndungu",
+        "phone": "0797931730",
+        "sex": "Male",
+        "maritalStatus": "Married",
+        "age": 31,
+        "bloodGroup": "O+",
+        "createdAt": "2026-07-27T18:28:40.191Z"
+      },
+      {
+        "id": "0724328900",
+        "name": "patrick kobia",
+        "phone": "0724328900",
+        "sex": "Male",
+        "maritalStatus": "Married",
+        "age": 37,
+        "bloodGroup": "O+",
+        "createdAt": "2026-07-27T18:17:41.167Z"
+      },
+      {
+        "id": "0701234446",
+        "name": "Esther Muthoni",
+        "phone": "0701234446",
+        "sex": "Female",
+        "maritalStatus": "Married",
+        "age": 44,
+        "bloodGroup": "O+",
+        "createdAt": "2026-07-27T17:52:02.787Z"
+      },
+      {
+        "id": "0723601835",
+        "name": "Christopher Munguti",
+        "phone": "0718601835",
+        "sex": "Male",
+        "maritalStatus": "Married",
+        "age": 55,
+        "bloodGroup": "O+",
+        "createdAt": "2026-07-27T17:06:36.140Z"
+      },
+      {
+        "id": "0769152027",
+        "name": "brenda nduku",
+        "phone": "0769152027",
+        "sex": "Female",
+        "maritalStatus": "Married",
+        "age": 32,
+        "bloodGroup": "O+",
+        "createdAt": "2026-07-27T16:48:44.502Z"
+      },
+      {
+        "id": "0114853866",
+        "name": "Irene Mumbua",
+        "phone": "0114853866",
+        "sex": "Female",
+        "maritalStatus": "Married",
+        "age": 28,
+        "bloodGroup": "O+",
+        "createdAt": "2026-07-27T16:41:58.379Z"
+      },
+      {
+        "id": "0717029708",
+        "name": "mercy kavere",
+        "phone": "0717029708",
+        "sex": "Female",
+        "maritalStatus": "Single",
+        "age": 30,
+        "bloodGroup": "O+",
+        "createdAt": "2026-07-27T16:27:49.675Z"
+      },
+      {
+        "maritalStatus": "Married",
+        "id": "0719204158",
+        "phone": "0719204158",
+        "age": 40,
+        "name": "wilson mburu",
+        "createdAt": "2026-07-27T16:11:30.979Z",
+        "sex": "Male",
+        "bloodGroup": "O+"
+      },
+      {
+        "bloodGroup": "O+",
+        "age": 9,
+        "name": "Ladasha Tifany",
+        "createdAt": "2026-07-27T15:25:52.396Z",
+        "sex": "Female",
+        "id": "00000",
+        "phone": "0000000000",
+        "maritalStatus": "Single"
+      },
+      {
+        "age": 29,
+        "name": "Salome Madegwa",
+        "createdAt": "2026-07-27T15:21:19.405Z",
+        "sex": "Female",
+        "bloodGroup": "O+",
+        "maritalStatus": "Single",
+        "phone": "0743384020",
+        "id": "0743384020"
+      },
+      {
+        "phone": "0793001764",
+        "id": "0793001764",
+        "maritalStatus": "Married",
+        "bloodGroup": "O+",
+        "name": "Irene Kinya",
+        "age": 21,
+        "sex": "Female",
+        "createdAt": "2026-07-27T15:01:22.367Z"
+      },
+      {
+        "bloodGroup": "O+",
+        "sex": "Male",
+        "createdAt": "2026-07-27T14:41:51.605Z",
+        "age": 39,
+        "name": "Felix Mwanzia",
+        "phone": "0794324716",
+        "id": "0794324716",
+        "maritalStatus": "Single"
+      },
+      {
+        "maritalStatus": "Married",
+        "id": "0700665021",
+        "phone": "0700665021",
+        "sex": "Female",
+        "createdAt": "2026-07-27T13:28:08.024Z",
+        "name": "Tabitha Ndungwa",
+        "age": 53,
+        "bloodGroup": "O+"
+      },
+      {
+        "name": "Patient X",
+        "age": 40,
+        "sex": "Male",
+        "createdAt": "2026-07-22T16:25:53.951Z",
+        "bloodGroup": "O+",
+        "maritalStatus": "Single",
+        "phone": "+254700 000 000",
+        "id": "000000"
+      }
+    ],
+    "records": [
+      {
+        "id": "REC-2324",
+        "patientId": "0705331027",
+        "date": "2026-07-28T03:29:59.865Z",
+        "triage": {
+          "temperature": 36.2,
+          "systolicBP": 140,
+          "diastolicBP": 86,
+          "pulseRate": 77,
+          "oxygenSaturation": 98,
+          "weight": 66,
+          "height": 157,
+          "recordedAt": "2026-07-28T03:29:59.865Z"
+        },
+        "symptoms": "Headache,Aortic pain,Dizziness,Oed on the face and lower extr, Epigastric pain and neck pain",
+        "ailment": "Septicemia,PUD",
+        "extraServices": [],
+        "labStatus": "pending",
+        "labRequest": {
+          "testIds": [
+            "test_fbc",
+            "test_455"
+          ],
+          "requestedAt": "2026-07-28T03:29:59.865Z"
+        },
+        "prescriptionStatus": "fully_dispatched",
+        "prescription": {
+          "medications": [
+            {
+              "name": "i.v Ceftriaxone",
+              "dosage": "1 gm od for 3 day",
+              "qtyRequested": 3,
+              "qtyDispatched": 3
+            },
+            {
+              "name": "Ciprofloxacin 500mg",
+              "dosage": "1 tab BD for 5 days",
+              "qtyRequested": 10,
+              "qtyDispatched": 10
+            },
+            {
+              "name": "Metronidazole 400mg",
+              "dosage": "1 tab TID for 5 days",
+              "qtyRequested": 15,
+              "qtyDispatched": 15
+            },
+            {
+              "name": "Cyclopam tab",
+              "dosage": "2 tabs TID for 3 days",
+              "qtyRequested": 20,
+              "qtyDispatched": 20
+            },
+            {
+              "name": "Tamepyn tablet",
+              "dosage": "2 tabs stat",
+              "qtyRequested": 2,
+              "qtyDispatched": 2
+            },
+            {
+              "name": "Ranferon syp",
+              "dosage": "10 mls BD for 3mnths",
+              "qtyRequested": 1,
+              "qtyDispatched": 1
+            }
+          ],
+          "prescribedAt": "2026-07-28T03:29:59.865Z",
+          "doctorNotes": "NB The patient has cleared her bill,kindly issue Ciprofloxacin on the last injection day.",
+          "dispenseHistory": [
+            {
+              "date": "2026-07-28T03:31:51.396Z",
+              "medicationName": "i.v Ceftriaxone",
+              "qtyDispensed": 3,
+              "remainingBalance": 0,
+              "pharmacistName": "Vida"
+            },
+            {
+              "date": "2026-07-28T03:31:51.396Z",
+              "medicationName": "Ciprofloxacin 500mg",
+              "qtyDispensed": 10,
+              "remainingBalance": 0,
+              "pharmacistName": "Vida"
+            },
+            {
+              "date": "2026-07-28T03:31:51.396Z",
+              "medicationName": "Metronidazole 400mg",
+              "qtyDispensed": 15,
+              "remainingBalance": 0,
+              "pharmacistName": "Vida"
+            },
+            {
+              "date": "2026-07-28T03:31:51.396Z",
+              "medicationName": "Cyclopam tab",
+              "qtyDispensed": 20,
+              "remainingBalance": 0,
+              "pharmacistName": "Vida"
+            },
+            {
+              "date": "2026-07-28T03:31:51.396Z",
+              "medicationName": "Tamepyn tablet",
+              "qtyDispensed": 2,
+              "remainingBalance": 0,
+              "pharmacistName": "Vida"
+            },
+            {
+              "date": "2026-07-28T03:31:51.396Z",
+              "medicationName": "Ranferon syp",
+              "qtyDispensed": 1,
+              "remainingBalance": 0,
+              "pharmacistName": "Vida"
+            },
+            {
+              "date": "2026-07-28T03:31:51.399Z",
+              "medicationName": "i.v Ceftriaxone",
+              "qtyDispensed": 3,
+              "remainingBalance": 0,
+              "pharmacistName": "Vida"
+            },
+            {
+              "date": "2026-07-28T03:31:51.399Z",
+              "medicationName": "Ciprofloxacin 500mg",
+              "qtyDispensed": 10,
+              "remainingBalance": 0,
+              "pharmacistName": "Vida"
+            },
+            {
+              "date": "2026-07-28T03:31:51.399Z",
+              "medicationName": "Metronidazole 400mg",
+              "qtyDispensed": 15,
+              "remainingBalance": 0,
+              "pharmacistName": "Vida"
+            },
+            {
+              "date": "2026-07-28T03:31:51.399Z",
+              "medicationName": "Cyclopam tab",
+              "qtyDispensed": 20,
+              "remainingBalance": 0,
+              "pharmacistName": "Vida"
+            },
+            {
+              "date": "2026-07-28T03:31:51.399Z",
+              "medicationName": "Tamepyn tablet",
+              "qtyDispensed": 2,
+              "remainingBalance": 0,
+              "pharmacistName": "Vida"
+            },
+            {
+              "date": "2026-07-28T03:31:51.399Z",
+              "medicationName": "Ranferon syp",
+              "qtyDispensed": 1,
+              "remainingBalance": 0,
+              "pharmacistName": "Vida"
+            }
+          ],
+          "dispatchedAt": "2026-07-28T03:31:51.399Z",
+          "pharmacistNotes": ""
+        }
+      },
+      {
+        "id": "REC-2885",
+        "patientId": "0705331027",
+        "date": "2026-07-28T03:12:23.229Z",
+        "triage": {
+          "temperature": 36.2,
+          "systolicBP": 140,
+          "diastolicBP": 86,
+          "pulseRate": 77,
+          "oxygenSaturation": 98,
+          "weight": 66,
+          "height": 157,
+          "recordedAt": "2026-07-28T03:12:23.229Z"
+        },
+        "symptoms": "Headache,Aortic pain,Dizziness,Oed on the face and lower extr, Epigastric pain and neck pain",
+        "ailment": "Septicemia,PUD",
+        "extraServices": [],
+        "labStatus": "pending",
+        "labRequest": {
+          "testIds": [
+            "test_fbc",
+            "test_455"
+          ],
+          "requestedAt": "2026-07-28T03:12:23.229Z"
+        },
+        "prescriptionStatus": "none"
+      },
+      {
+        "id": "REC-6179",
+        "patientId": "0714826117",
+        "date": "2026-07-27T20:00:12.487Z",
+        "symptoms": "painful lower limbs with swelling",
+        "ailment": "soft tissue infection r/o streptococcus",
+        "extraServices": [],
+        "labStatus": "completed",
+        "labRequest": {
+          "testIds": [
+            "test_fbc"
+          ],
+          "requestedAt": "2026-07-27T20:00:12.487Z",
+          "completedAt": "2026-07-27T20:13:49.720Z",
+          "results": [
+            {
+              "parameterId": "param_hb",
+              "parameterName": "HGB",
+              "value": "14.8",
+              "unit": "g/dL",
+              "normalRange": "12.0 - 16.0"
+            },
+            {
+              "parameterId": "param_wbc",
+              "parameterName": "White Blood Cells (WBC)",
+              "value": "8.1",
+              "unit": "10^9/L",
+              "normalRange": "4.0 - 12.0"
+            },
+            {
+              "parameterId": "param_plt",
+              "parameterName": "Platelet Count (PLT)",
+              "value": "286",
+              "unit": "10^9/L",
+              "normalRange": "150 - 450"
+            },
+            {
+              "parameterId": "param_337",
+              "parameterName": "Ketone",
+              "value": "neg",
+              "unit": ".",
+              "normalRange": "neg."
+            },
+            {
+              "parameterId": "param_367",
+              "parameterName": "Lymph%",
+              "value": "30.4",
+              "unit": "%",
+              "normalRange": "20.0-60.0"
+            },
+            {
+              "parameterId": "param_350",
+              "parameterName": "RBC",
+              "value": "5.45",
+              "unit": "10^12/L",
+              "normalRange": "3.50-5.20"
+            },
+            {
+              "parameterId": "param_181",
+              "parameterName": "HCT",
+              "value": "47.5",
+              "unit": "%",
+              "normalRange": "35.0-49.0"
+            },
+            {
+              "parameterId": "param_887",
+              "parameterName": "Mid%",
+              "value": "10.3",
+              "unit": "%",
+              "normalRange": "3.0-14.0"
+            },
+            {
+              "parameterId": "param_843",
+              "parameterName": "Mid#",
+              "value": "0.8",
+              "unit": "10^9/L",
+              "normalRange": "0.1-1.2"
+            },
+            {
+              "parameterId": "param_772",
+              "parameterName": "Gran%",
+              "value": "59.3",
+              "unit": "%",
+              "normalRange": "50.0-70.0"
+            },
+            {
+              "parameterId": "param_808",
+              "parameterName": "Gran#",
+              "value": "4.8",
+              "unit": "10^9/L",
+              "normalRange": "2.0-8.0"
+            }
+          ],
+          "notes": "",
+          "technicianId": "TECH-ALPHA"
+        },
+        "prescriptionStatus": "fully_dispatched",
+        "prescription": {
+          "medications": [
+            {
+              "name": "flucloxacillin 500mg",
+              "dosage": "1 cap 6hrly x 5 days",
+              "qtyRequested": 20,
+              "qtyDispatched": 20
+            }
+          ],
+          "prescribedAt": "2026-07-27T20:18:14.245Z",
+          "doctorNotes": "",
+          "dispenseHistory": [
+            {
+              "date": "2026-07-27T20:49:21.065Z",
+              "medicationName": "flucloxacillin 500mg",
+              "qtyDispensed": 20,
+              "remainingBalance": 0,
+              "pharmacistName": "Vida"
+            }
+          ],
+          "dispatchedAt": "2026-07-27T20:49:21.065Z",
+          "pharmacistNotes": "cleared"
+        }
+      },
+      {
+        "id": "REC-8579",
+        "patientId": "0727440080 or 0716620600",
+        "date": "2026-07-27T19:46:03.747Z",
+        "triage": {
+          "temperature": 36.8,
+          "systolicBP": 114,
+          "diastolicBP": 82,
+          "pulseRate": 84,
+          "oxygenSaturation": 98,
+          "weight": 65,
+          "height": 153,
+          "recordedAt": "2026-07-27T19:46:03.747Z"
+        },
+        "symptoms": "review for rheumatoid arthritis/asot management\n",
+        "ailment": "rheumatoid arthritis/asot",
+        "extraServices": [],
+        "labStatus": "none",
+        "prescriptionStatus": "partially_dispatched",
+        "prescription": {
+          "medications": [
+            {
+              "name": "benzatthine penicillin 2.4 mega",
+              "dosage": "1 IM stat",
+              "qtyRequested": 1,
+              "qtyDispatched": 1
+            },
+            {
+              "name": "HCQ 200mg",
+              "dosage": "1 PO od x 30 days",
+              "qtyRequested": 30,
+              "qtyDispatched": 30
+            },
+            {
+              "name": "etoricoxib 90mg",
+              "dosage": "1 PO bd x 10 days",
+              "qtyRequested": 20,
+              "qtyDispatched": 18
+            }
+          ],
+          "prescribedAt": "2026-07-27T19:46:03.747Z",
+          "doctorNotes": "to come for cartil super forte tabs",
+          "dispenseHistory": [
+            {
+              "date": "2026-07-27T20:19:30.440Z",
+              "medicationName": "benzatthine penicillin 2.4 mega",
+              "qtyDispensed": 1,
+              "remainingBalance": 0,
+              "pharmacistName": "Vida"
+            },
+            {
+              "date": "2026-07-27T20:19:30.440Z",
+              "medicationName": "HCQ 200mg",
+              "qtyDispensed": 30,
+              "remainingBalance": 0,
+              "pharmacistName": "Vida"
+            },
+            {
+              "date": "2026-07-27T20:19:30.440Z",
+              "medicationName": "etoricoxib 90mg",
+              "qtyDispensed": 18,
+              "remainingBalance": 2,
+              "pharmacistName": "Vida"
+            }
+          ],
+          "dispatchedAt": "2026-07-27T20:19:30.440Z",
+          "pharmacistNotes": ""
+        }
+      },
+      {
+        "id": "REC-1975",
+        "patientId": "0797931730",
+        "date": "2026-07-27T18:41:17.483Z",
+        "symptoms": "continued uti treatment\n",
+        "ailment": "Investigation ongoing",
+        "extraServices": [],
+        "labStatus": "none",
+        "prescriptionStatus": "fully_dispatched",
+        "prescription": {
+          "medications": [
+            {
+              "name": "ceftraiaxone 1gm",
+              "dosage": "1 iv stat",
+              "qtyRequested": 1,
+              "qtyDispatched": 1
+            }
+          ],
+          "prescribedAt": "2026-07-27T18:41:17.483Z",
+          "doctorNotes": "",
+          "dispenseHistory": [
+            {
+              "date": "2026-07-27T18:54:05.781Z",
+              "medicationName": "ceftraiaxone 1gm",
+              "qtyDispensed": 1,
+              "remainingBalance": 0,
+              "pharmacistName": "Vida"
+            }
+          ],
+          "dispatchedAt": "2026-07-27T18:54:05.781Z",
+          "pharmacistNotes": "N/B To pay 300/ then issue ciprofloxacin ( Ultraflox )"
+        }
+      },
+      {
+        "id": "REC-1845",
+        "patientId": "0724328900",
+        "date": "2026-07-27T18:30:12.936Z",
+        "symptoms": "continued uti treatment",
+        "ailment": "uti",
+        "extraServices": [],
+        "labStatus": "none",
+        "prescriptionStatus": "pending",
+        "prescription": {
+          "medications": [
+            {
+              "name": "ceftraiaxone 1gm",
+              "dosage": "1 iv stat",
+              "qtyRequested": 1,
+              "qtyDispatched": 0
+            }
+          ],
+          "prescribedAt": "2026-07-27T18:30:12.936Z",
+          "doctorNotes": ""
+        }
+      },
+      {
+        "id": "REC-1082",
+        "patientId": "0724328900",
+        "date": "2026-07-27T18:19:28.441Z",
+        "symptoms": "chest pain",
+        "ailment": "atypical pneumonia",
+        "extraServices": [],
+        "labStatus": "none",
+        "prescriptionStatus": "fully_dispatched",
+        "prescription": {
+          "medications": [
+            {
+              "name": "ceftriaxone 1gm",
+              "dosage": "1 iv stat",
+              "qtyRequested": 1,
+              "qtyDispatched": 1
+            }
+          ],
+          "prescribedAt": "2026-07-27T18:19:28.441Z",
+          "doctorNotes": "ct tomorrow for 3 days",
+          "dispenseHistory": [
+            {
+              "date": "2026-07-27T18:24:00.029Z",
+              "medicationName": "ceftriaxone 1gm",
+              "qtyDispensed": 1,
+              "remainingBalance": 0,
+              "pharmacistName": "Vida"
+            },
+            {
+              "date": "2026-07-27T18:24:00.456Z",
+              "medicationName": "ceftriaxone 1gm",
+              "qtyDispensed": 1,
+              "remainingBalance": 0,
+              "pharmacistName": "Vida"
+            }
+          ],
+          "dispatchedAt": "2026-07-27T18:24:00.456Z",
+          "pharmacistNotes": ""
+        }
+      },
+      {
+        "id": "REC-8072",
+        "patientId": "0701234446",
+        "date": "2026-07-27T17:55:58.755Z",
+        "triage": {
+          "temperature": 36.8,
+          "systolicBP": 175,
+          "diastolicBP": 96,
+          "pulseRate": 75,
+          "oxygenSaturation": 98,
+          "weight": 66,
+          "height": 153,
+          "recordedAt": "2026-07-27T17:55:58.755Z"
+        },
+        "symptoms": "palpitation",
+        "ailment": "hypertension",
+        "extraServices": [],
+        "labStatus": "none",
+        "prescriptionStatus": "fully_dispatched",
+        "prescription": {
+          "medications": [
+            {
+              "name": "carditan-h 25/50",
+              "dosage": "1 tab od x 14 days",
+              "qtyRequested": 14,
+              "qtyDispatched": 14
+            },
+            {
+              "name": "amlodipine 10mg",
+              "dosage": "1 tab od x 14 days",
+              "qtyRequested": 14,
+              "qtyDispatched": 14
+            }
+          ],
+          "prescribedAt": "2026-07-27T17:55:58.755Z",
+          "doctorNotes": "",
+          "dispenseHistory": [
+            {
+              "date": "2026-07-27T18:01:40.898Z",
+              "medicationName": "carditan-h 25/50",
+              "qtyDispensed": 14,
+              "remainingBalance": 0,
+              "pharmacistName": "Vida"
+            },
+            {
+              "date": "2026-07-27T18:01:40.898Z",
+              "medicationName": "amlodipine 10mg",
+              "qtyDispensed": 14,
+              "remainingBalance": 0,
+              "pharmacistName": "Vida"
+            }
+          ],
+          "dispatchedAt": "2026-07-27T18:01:40.898Z",
+          "pharmacistNotes": ""
+        }
+      },
+      {
+        "id": "REC-6080",
+        "patientId": "0114853866",
+        "date": "2026-07-27T17:15:34.188Z",
+        "triage": {
+          "temperature": 36.8,
+          "systolicBP": 120,
+          "diastolicBP": 80,
+          "pulseRate": 75,
+          "oxygenSaturation": 98,
+          "weight": 70,
+          "height": 170,
+          "recordedAt": "2026-07-27T17:15:34.188Z"
+        },
+        "symptoms": "epigastric pains on and off x3 months",
+        "ailment": "gastritis",
+        "extraServices": [],
+        "labStatus": "pending",
+        "labRequest": {
+          "testIds": [
+            "test_455"
+          ],
+          "requestedAt": "2026-07-27T17:15:34.188Z"
+        },
+        "prescriptionStatus": "none"
+      },
+      {
+        "id": "REC-4329",
+        "patientId": "0723601835",
+        "date": "2026-07-27T17:09:56.371Z",
+        "triage": {
+          "temperature": 36.8,
+          "systolicBP": 120,
+          "diastolicBP": 80,
+          "pulseRate": 75,
+          "oxygenSaturation": 98,
+          "weight": 70,
+          "height": 170,
+          "recordedAt": "2026-07-27T17:09:56.371Z"
+        },
+        "symptoms": "painful testicle-left sided\nitchy urethra",
+        "ailment": "uti(recurrent)",
+        "extraServices": [
+          {
+            "serviceId": "srv_dressing",
+            "name": "Wound Dressing & Cleaning",
+            "cost": 200
+          }
+        ],
+        "labStatus": "none",
+        "prescriptionStatus": "pending",
+        "prescription": {
+          "medications": [
+            {
+              "name": "ciprofloxacin 500mg",
+              "dosage": "1 tab PO bd x 5 days",
+              "qtyRequested": 10,
+              "qtyDispatched": 0
+            },
+            {
+              "name": "secnidazole 1gm",
+              "dosage": "1 PO stat",
+              "qtyRequested": 1,
+              "qtyDispatched": 0
+            }
+          ],
+          "prescribedAt": "2026-07-27T17:09:56.371Z",
+          "doctorNotes": "treat the partner as well"
+        }
+      },
+      {
+        "id": "REC-2075",
+        "patientId": "0769152027",
+        "date": "2026-07-27T16:51:55.221Z",
+        "triage": {
+          "temperature": 36.8,
+          "systolicBP": 120,
+          "diastolicBP": 80,
+          "pulseRate": 75,
+          "oxygenSaturation": 98,
+          "weight": 70,
+          "height": 170,
+          "recordedAt": "2026-07-27T16:51:55.221Z"
+        },
+        "symptoms": "caesarian section scar dressing",
+        "ailment": "dressing",
+        "extraServices": [
+          {
+            "serviceId": "srv_dressing",
+            "name": "Wound Dressing & Cleaning",
+            "cost": 200
+          }
+        ],
+        "labStatus": "none",
+        "prescriptionStatus": "pending",
+        "prescription": {
+          "medications": [
+            {
+              "name": "dressing",
+              "dosage": "1",
+              "qtyRequested": 1,
+              "qtyDispatched": 0
+            }
+          ],
+          "prescribedAt": "2026-07-27T16:51:55.221Z",
+          "doctorNotes": ""
+        }
+      },
+      {
+        "id": "REC-7266",
+        "patientId": "0769152027",
+        "date": "2026-07-27T16:50:56.480Z",
+        "triage": {
+          "temperature": 36.8,
+          "systolicBP": 120,
+          "diastolicBP": 80,
+          "pulseRate": 75,
+          "oxygenSaturation": 98,
+          "weight": 70,
+          "height": 170,
+          "recordedAt": "2026-07-27T16:50:56.480Z"
+        },
+        "symptoms": "caesarian section scar dressing",
+        "ailment": "dressing",
+        "extraServices": [
+          {
+            "serviceId": "srv_dressing",
+            "name": "Wound Dressing & Cleaning",
+            "cost": 200
+          }
+        ],
+        "labStatus": "none",
+        "prescriptionStatus": "none"
+      },
+      {
+        "id": "REC-3780",
+        "patientId": "0717029708",
+        "date": "2026-07-27T16:34:50.037Z",
+        "triage": {
+          "temperature": 38.3,
+          "systolicBP": 120,
+          "diastolicBP": 80,
+          "pulseRate": 75,
+          "oxygenSaturation": 98,
+          "weight": 70,
+          "height": 170,
+          "recordedAt": "2026-07-27T16:34:50.037Z"
+        },
+        "symptoms": "fever\nchest pain\ncough\n",
+        "ailment": "chest infection, cough",
+        "extraServices": [],
+        "labStatus": "none",
+        "prescriptionStatus": "pending",
+        "prescription": {
+          "medications": [
+            {
+              "name": "ceftriaxone 1gm",
+              "dosage": "1 iv od x 3 days",
+              "qtyRequested": 3,
+              "qtyDispatched": 0
+            },
+            {
+              "name": "cipladon 1gm",
+              "dosage": "1 tab PO stat",
+              "qtyRequested": 1,
+              "qtyDispatched": 0
+            },
+            {
+              "name": "azithromycin 500mg",
+              "dosage": "1 tab od x 3 days",
+              "qtyRequested": 1,
+              "qtyDispatched": 0
+            },
+            {
+              "name": "dexamethasone 4mg",
+              "dosage": "2 tab then 1 bd x 5 days",
+              "qtyRequested": 12,
+              "qtyDispatched": 0
+            },
+            {
+              "name": "ibupar ",
+              "dosage": "1 tabs tds x 3 days",
+              "qtyRequested": 10,
+              "qtyDispatched": 0
+            }
+          ],
+          "prescribedAt": "2026-07-27T16:34:50.037Z",
+          "doctorNotes": "review daily"
+        }
+      },
+      {
+        "ailment": "rti",
+        "date": "2026-07-27T15:32:10.572Z",
+        "patientId": "00000",
+        "prescriptionStatus": "fully_dispatched",
+        "extraServices": [],
+        "id": "REC-6965",
+        "prescription": {
+          "dispenseHistory": [
+            {
+              "remainingBalance": 0,
+              "pharmacistName": "Janet",
+              "qtyDispensed": 1,
+              "date": "2026-07-27T15:53:31.478Z",
+              "medicationName": "ceftriaxine 1gm"
+            },
+            {
+              "remainingBalance": 0,
+              "qtyDispensed": 1,
+              "pharmacistName": "Janet",
+              "medicationName": "ceftriaxine 1gm",
+              "date": "2026-07-27T15:53:31.625Z"
+            }
+          ],
+          "dispatchedAt": "2026-07-27T15:53:31.625Z",
+          "doctorNotes": "",
+          "pharmacistNotes": "",
+          "medications": [
+            {
+              "qtyDispatched": 1,
+              "name": "ceftriaxine 1gm",
+              "qtyRequested": 1,
+              "dosage": "1 iv stat"
+            }
+          ],
+          "prescribedAt": "2026-07-27T15:32:10.572Z"
+        },
+        "symptoms": "\nheadache",
+        "labStatus": "none"
+      },
+      {
+        "id": "REC-8934",
+        "extraServices": [],
+        "prescription": {
+          "medications": [
+            {
+              "qtyRequested": 1,
+              "dosage": "1 PO stat",
+              "qtyDispatched": 1,
+              "name": "cipladon 1gm"
+            },
+            {
+              "dosage": "1 tab PO tds x 3 days",
+              "qtyRequested": 10,
+              "name": "myospaz tabs",
+              "qtyDispatched": 10
+            }
+          ],
+          "pharmacistNotes": "",
+          "dispatchedAt": "2026-07-27T15:46:09.725Z",
+          "doctorNotes": "",
+          "dispenseHistory": [
+            {
+              "remainingBalance": 0,
+              "qtyDispensed": 1,
+              "pharmacistName": "Janet",
+              "medicationName": "cipladon 1gm",
+              "date": "2026-07-27T15:45:33.800Z"
+            },
+            {
+              "medicationName": "myospaz tabs",
+              "date": "2026-07-27T15:45:33.800Z",
+              "qtyDispensed": 5,
+              "pharmacistName": "Janet",
+              "remainingBalance": 5
+            },
+            {
+              "date": "2026-07-27T15:46:09.725Z",
+              "medicationName": "cipladon 1gm",
+              "pharmacistName": "Janet",
+              "qtyDispensed": 1,
+              "remainingBalance": 0
+            },
+            {
+              "pharmacistName": "Janet",
+              "qtyDispensed": 5,
+              "date": "2026-07-27T15:46:09.725Z",
+              "medicationName": "myospaz tabs",
+              "remainingBalance": 0
+            }
+          ],
+          "prescribedAt": "2026-07-27T15:23:33.919Z"
+        },
+        "labStatus": "none",
+        "symptoms": "fever\njoint pains\nchest pain\nbackache\nheadache",
+        "ailment": "acute febrile illness, ",
+        "prescriptionStatus": "fully_dispatched",
+        "date": "2026-07-27T15:23:33.919Z",
+        "patientId": "0743384020"
+      },
+      {
+        "ailment": "common cold r/o malaria,bacetrial infection",
+        "date": "2026-07-27T15:09:35.812Z",
+        "patientId": "0793001764",
+        "triage": {
+          "temperature": 3.74,
+          "diastolicBP": 80,
+          "oxygenSaturation": 98,
+          "weight": 70,
+          "height": 166,
+          "pulseRate": 75,
+          "recordedAt": "2026-07-27T15:09:35.812Z",
+          "systolicBP": 120
+        },
+        "prescriptionStatus": "fully_dispatched",
+        "id": "REC-6429",
+        "extraServices": [],
+        "prescription": {
+          "prescribedAt": "2026-07-27T15:09:35.812Z",
+          "dispenseHistory": [
+            {
+              "remainingBalance": 0,
+              "medicationName": "ceftriaxone 1gm inj",
+              "date": "2026-07-27T15:22:56.351Z",
+              "qtyDispensed": 1,
+              "pharmacistName": "Janet"
+            },
+            {
+              "remainingBalance": 0,
+              "medicationName": "azithromycin 500mg",
+              "date": "2026-07-27T15:22:56.351Z",
+              "qtyDispensed": 1,
+              "pharmacistName": "Janet"
+            },
+            {
+              "remainingBalance": 0,
+              "date": "2026-07-27T15:22:56.351Z",
+              "medicationName": "brufen 400mg",
+              "pharmacistName": "Janet",
+              "qtyDispensed": 10
+            },
+            {
+              "pharmacistName": "Janet",
+              "qtyDispensed": 1,
+              "date": "2026-07-27T15:22:56.351Z",
+              "medicationName": "flugone DM syrup",
+              "remainingBalance": 0
+            },
+            {
+              "date": "2026-07-27T15:26:54.430Z",
+              "medicationName": "ceftriaxone 1gm inj",
+              "pharmacistName": "Janet",
+              "qtyDispensed": 1,
+              "remainingBalance": 0
+            },
+            {
+              "medicationName": "azithromycin 500mg",
+              "date": "2026-07-27T15:26:54.430Z",
+              "qtyDispensed": 1,
+              "pharmacistName": "Janet",
+              "remainingBalance": 0
+            },
+            {
+              "medicationName": "brufen 400mg",
+              "date": "2026-07-27T15:26:54.430Z",
+              "qtyDispensed": 10,
+              "pharmacistName": "Janet",
+              "remainingBalance": 0
+            },
+            {
+              "date": "2026-07-27T15:26:54.430Z",
+              "medicationName": "flugone DM syrup",
+              "pharmacistName": "Janet",
+              "qtyDispensed": 1,
+              "remainingBalance": 0
+            }
+          ],
+          "pharmacistNotes": "",
+          "medications": [
+            {
+              "name": "ceftriaxone 1gm inj",
+              "qtyDispatched": 1,
+              "dosage": "1 iv stat",
+              "qtyRequested": 1
+            },
+            {
+              "qtyDispatched": 1,
+              "name": "azithromycin 500mg",
+              "qtyRequested": 1,
+              "dosage": "1 tab PO od x 3 days"
+            },
+            {
+              "qtyRequested": 10,
+              "dosage": "1 tabs PO tds x 3 days",
+              "qtyDispatched": 10,
+              "name": "brufen 400mg"
+            },
+            {
+              "dosage": "10ml PO tds x 5 days",
+              "qtyRequested": 1,
+              "name": "flugone DM syrup",
+              "qtyDispatched": 1
+            }
+          ],
+          "doctorNotes": "take medicine after meals",
+          "dispatchedAt": "2026-07-27T15:26:54.430Z"
+        },
+        "symptoms": "cough\nchest pain\nrunnynose\ngbw",
+        "labStatus": "none"
+      },
+      {
+        "patientId": "0794324716",
+        "date": "2026-07-27T14:47:19.105Z",
+        "prescriptionStatus": "fully_dispatched",
+        "ailment": "h pylori infectio r/o malaria",
+        "symptoms": "epigastric pain\nvomiting\ngbw",
+        "labRequest": {
+          "requestedAt": "2026-07-27T14:47:19.105Z",
+          "results": [
+            {
+              "normalRange": "+/-",
+              "parameterId": "param_214",
+              "unit": ".",
+              "value": "Negative",
+              "parameterName": "Malaria - MRDT"
+            }
+          ],
+          "testIds": [
+            "test_218"
+          ],
+          "notes": "",
+          "completedAt": "2026-07-27T14:48:50.710Z",
+          "technicianId": "TECH-ALPHA"
+        },
+        "labStatus": "completed",
+        "prescription": {
+          "prescribedAt": "2026-07-27T14:58:15.810Z",
+          "dispenseHistory": [
+            {
+              "remainingBalance": 0,
+              "qtyDispensed": 2,
+              "pharmacistName": "Janet",
+              "medicationName": "helicure kit",
+              "date": "2026-07-27T15:09:34.201Z"
+            },
+            {
+              "medicationName": "normal saline 500ml",
+              "date": "2026-07-27T15:09:34.201Z",
+              "qtyDispensed": 2,
+              "pharmacistName": "Janet",
+              "remainingBalance": 0
+            },
+            {
+              "remainingBalance": 0,
+              "date": "2026-07-27T15:09:34.201Z",
+              "medicationName": "Ceftriaxone 1gm inj",
+              "pharmacistName": "Janet",
+              "qtyDispensed": 2
+            },
+            {
+              "medicationName": "Ondansetron 4mg inj",
+              "date": "2026-07-27T15:09:34.201Z",
+              "qtyDispensed": 1,
+              "pharmacistName": "Janet",
+              "remainingBalance": 0
+            },
+            {
+              "medicationName": "myospaz",
+              "date": "2026-07-27T15:09:34.201Z",
+              "qtyDispensed": 10,
+              "pharmacistName": "Janet",
+              "remainingBalance": 0
+            },
+            {
+              "medicationName": "Ondansetron 8ng",
+              "date": "2026-07-27T15:09:34.201Z",
+              "qtyDispensed": 6,
+              "pharmacistName": "Janet",
+              "remainingBalance": 0
+            },
+            {
+              "remainingBalance": 0,
+              "medicationName": "alugel susp",
+              "date": "2026-07-27T15:09:34.201Z",
+              "qtyDispensed": 1,
+              "pharmacistName": "Janet"
+            },
+            {
+              "remainingBalance": 0,
+              "medicationName": "Giving sets",
+              "date": "2026-07-27T15:09:34.201Z",
+              "qtyDispensed": 1,
+              "pharmacistName": "Janet"
+            },
+            {
+              "pharmacistName": "Janet",
+              "qtyDispensed": 1,
+              "date": "2026-07-27T15:09:34.201Z",
+              "medicationName": "branula",
+              "remainingBalance": 0
+            },
+            {
+              "remainingBalance": 0,
+              "date": "2026-07-27T15:09:43.541Z",
+              "medicationName": "helicure kit",
+              "pharmacistName": "Janet",
+              "qtyDispensed": 2
+            },
+            {
+              "medicationName": "normal saline 500ml",
+              "date": "2026-07-27T15:09:43.541Z",
+              "qtyDispensed": 2,
+              "pharmacistName": "Janet",
+              "remainingBalance": 0
+            },
+            {
+              "remainingBalance": 0,
+              "pharmacistName": "Janet",
+              "qtyDispensed": 2,
+              "date": "2026-07-27T15:09:43.541Z",
+              "medicationName": "Ceftriaxone 1gm inj"
+            },
+            {
+              "remainingBalance": 0,
+              "medicationName": "Ondansetron 4mg inj",
+              "date": "2026-07-27T15:09:43.541Z",
+              "qtyDispensed": 1,
+              "pharmacistName": "Janet"
+            },
+            {
+              "remainingBalance": 0,
+              "date": "2026-07-27T15:09:43.541Z",
+              "medicationName": "myospaz",
+              "pharmacistName": "Janet",
+              "qtyDispensed": 10
+            },
+            {
+              "remainingBalance": 0,
+              "pharmacistName": "Janet",
+              "qtyDispensed": 6,
+              "date": "2026-07-27T15:09:43.541Z",
+              "medicationName": "Ondansetron 8ng"
+            },
+            {
+              "remainingBalance": 0,
+              "pharmacistName": "Janet",
+              "qtyDispensed": 1,
+              "date": "2026-07-27T15:09:43.541Z",
+              "medicationName": "alugel susp"
+            },
+            {
+              "remainingBalance": 0,
+              "pharmacistName": "Janet",
+              "qtyDispensed": 1,
+              "date": "2026-07-27T15:09:43.541Z",
+              "medicationName": "Giving sets"
+            },
+            {
+              "date": "2026-07-27T15:09:43.541Z",
+              "medicationName": "branula",
+              "pharmacistName": "Janet",
+              "qtyDispensed": 1,
+              "remainingBalance": 0
+            },
+            {
+              "remainingBalance": 0,
+              "pharmacistName": "Janet",
+              "qtyDispensed": 2,
+              "date": "2026-07-27T15:09:43.793Z",
+              "medicationName": "helicure kit"
+            },
+            {
+              "remainingBalance": 0,
+              "qtyDispensed": 2,
+              "pharmacistName": "Janet",
+              "medicationName": "normal saline 500ml",
+              "date": "2026-07-27T15:09:43.793Z"
+            },
+            {
+              "medicationName": "Ceftriaxone 1gm inj",
+              "date": "2026-07-27T15:09:43.793Z",
+              "qtyDispensed": 2,
+              "pharmacistName": "Janet",
+              "remainingBalance": 0
+            },
+            {
+              "date": "2026-07-27T15:09:43.793Z",
+              "medicationName": "Ondansetron 4mg inj",
+              "pharmacistName": "Janet",
+              "qtyDispensed": 1,
+              "remainingBalance": 0
+            },
+            {
+              "date": "2026-07-27T15:09:43.793Z",
+              "medicationName": "myospaz",
+              "pharmacistName": "Janet",
+              "qtyDispensed": 10,
+              "remainingBalance": 0
+            },
+            {
+              "qtyDispensed": 6,
+              "pharmacistName": "Janet",
+              "medicationName": "Ondansetron 8ng",
+              "date": "2026-07-27T15:09:43.793Z",
+              "remainingBalance": 0
+            },
+            {
+              "date": "2026-07-27T15:09:43.793Z",
+              "medicationName": "alugel susp",
+              "pharmacistName": "Janet",
+              "qtyDispensed": 1,
+              "remainingBalance": 0
+            },
+            {
+              "date": "2026-07-27T15:09:43.793Z",
+              "medicationName": "Giving sets",
+              "pharmacistName": "Janet",
+              "qtyDispensed": 1,
+              "remainingBalance": 0
+            },
+            {
+              "remainingBalance": 0,
+              "medicationName": "branula",
+              "date": "2026-07-27T15:09:43.793Z",
+              "qtyDispensed": 1,
+              "pharmacistName": "Janet"
+            }
+          ],
+          "medications": [
+            {
+              "name": "helicure kit",
+              "qtyDispatched": 2,
+              "dosage": "3 PO bd 14 dats",
+              "qtyRequested": 2
+            },
+            {
+              "qtyRequested": 2,
+              "dosage": "1 litre to run",
+              "qtyDispatched": 2,
+              "name": "normal saline 500ml"
+            },
+            {
+              "name": "Ceftriaxone 1gm inj",
+              "qtyDispatched": 2,
+              "dosage": "2 gm iv stat",
+              "qtyRequested": 2
+            },
+            {
+              "qtyRequested": 1,
+              "dosage": "1 iv stat",
+              "qtyDispatched": 1,
+              "name": "Ondansetron 4mg inj"
+            },
+            {
+              "name": "myospaz",
+              "qtyDispatched": 10,
+              "dosage": "1 tab tds x 3 days",
+              "qtyRequested": 10
+            },
+            {
+              "qtyDispatched": 6,
+              "name": "Ondansetron 8ng",
+              "qtyRequested": 6,
+              "dosage": " 1 tabd bd x3 days"
+            },
+            {
+              "name": "alugel susp",
+              "qtyDispatched": 1,
+              "dosage": "10ml PO tds",
+              "qtyRequested": 1
+            },
+            {
+              "name": "Giving sets",
+              "qtyDispatched": 1,
+              "dosage": "1 ",
+              "qtyRequested": 1
+            },
+            {
+              "dosage": "1",
+              "qtyRequested": 1,
+              "name": "branula",
+              "qtyDispatched": 1
+            }
+          ],
+          "pharmacistNotes": "",
+          "dispatchedAt": "2026-07-27T15:09:43.793Z",
+          "doctorNotes": "Take medicine after meals,avoid spices and alot of fats in food"
+        },
+        "id": "REC-9220",
+        "extraServices": []
+      },
+      {
+        "ailment": "h pylori infection, dehydration(moderate)",
+        "patientId": "0794324716",
+        "date": "2026-07-27T14:44:55.043Z",
+        "prescriptionStatus": "none",
+        "extraServices": [],
+        "id": "REC-9523",
+        "symptoms": "Epigastric pain\nVomiting\nlethergy\ngeneral body malaise",
+        "labRequest": {
+          "results": [
+            {
+              "parameterId": "param_389",
+              "normalRange": "+/-",
+              "parameterName": "H Pylory Antibody",
+              "value": "Negative",
+              "unit": "."
+            }
+          ],
+          "requestedAt": "2026-07-27T14:44:55.043Z",
+          "technicianId": "TECH-ALPHA",
+          "completedAt": "2026-07-27T14:49:39.148Z",
+          "notes": "",
+          "testIds": [
+            "test_181"
+          ]
+        },
+        "labStatus": "completed"
+      },
+      {
+        "labStatus": "none",
+        "prescriptionStatus": "none",
+        "patientId": "0794324716",
+        "symptoms": "Epigastric pain\nVomiting\nlethergy\ngeneral body malaise",
+        "date": "2026-07-27T14:43:26.049Z",
+        "id": "REC-2814",
+        "ailment": "h pylori infection",
+        "extraServices": []
+      },
+      {
+        "prescriptionStatus": "fully_dispatched",
+        "patientId": "0700665021",
+        "date": "2026-07-27T14:35:16.349Z",
+        "ailment": "Investigation ongoing",
+        "labStatus": "none",
+        "symptoms": "recurrent dressings",
+        "prescription": {
+          "prescribedAt": "2026-07-27T14:35:16.349Z",
+          "dispenseHistory": [
+            {
+              "date": "2026-07-27T14:36:38.643Z",
+              "medicationName": "primapore dressing",
+              "pharmacistName": "Janet",
+              "qtyDispensed": 1,
+              "remainingBalance": 0
+            }
+          ],
+          "medications": [
+            {
+              "dosage": "1 od",
+              "qtyRequested": 1,
+              "name": "primapore dressing",
+              "qtyDispatched": 1
+            }
+          ],
+          "pharmacistNotes": "",
+          "doctorNotes": "dressing",
+          "dispatchedAt": "2026-07-27T14:36:38.643Z"
+        },
+        "id": "REC-3504",
+        "extraServices": [
+          {
+            "serviceId": "srv_dressing",
+            "cost": 0,
+            "name": "Wound Dressing & Cleaning"
+          }
+        ]
+      },
+      {
+        "ailment": "Investigation ongoing",
+        "id": "REC-8545",
+        "extraServices": [
+          {
+            "cost": 0,
+            "serviceId": "srv_dressing",
+            "name": "Wound Dressing & Cleaning"
+          }
+        ],
+        "labStatus": "none",
+        "prescriptionStatus": "none",
+        "patientId": "0700665021",
+        "symptoms": "recurrent dressings",
+        "date": "2026-07-27T14:34:18.819Z"
+      },
+      {
+        "staffMember": "System Administrator (Admin)",
+        "id": "REC-3165",
+        "extraServices": [
+          {
+            "serviceId": "srv_dressing",
+            "cost": 100,
+            "name": "Wound Dressing & Cleaning"
+          }
+        ],
+        "symptoms": "Clinical Service: Wound Dressing & Cleaning",
+        "labStatus": "none",
+        "ailment": "Wound Dressing & Cleaning",
+        "patientId": "000000",
+        "date": "2026-07-27T14:23:17.765Z",
+        "prescriptionStatus": "none",
+        "notes": ""
+      },
+      {
+        "extraServices": [
+          {
+            "serviceId": "srv_dressing",
+            "cost": 100,
+            "name": "Wound Dressing & Cleaning"
+          }
+        ],
+        "staffMember": "System Administrator (Admin)",
+        "id": "REC-8509",
+        "symptoms": "Clinical Service: Wound Dressing & Cleaning",
+        "labStatus": "none",
+        "ailment": "Wound Dressing & Cleaning",
+        "patientId": "000000",
+        "date": "2026-07-27T14:22:51.670Z",
+        "prescriptionStatus": "none",
+        "notes": ""
+      },
+      {
+        "ailment": "Wound Dressing & Cleaning",
+        "notes": "Dressing done",
+        "prescriptionStatus": "none",
+        "date": "2026-07-27T13:30:48.792Z",
+        "patientId": "0700665021",
+        "staffMember": "System Administrator (Admin)",
+        "id": "REC-5734",
+        "extraServices": [
+          {
+            "serviceId": "srv_dressing",
+            "cost": 500,
+            "name": "Wound Dressing & Cleaning"
+          }
+        ],
+        "labStatus": "none",
+        "symptoms": "Clinical Service: Wound Dressing & Cleaning"
+      },
+      {
+        "labStatus": "none",
+        "prescriptionStatus": "none",
+        "patientId": "0700665021",
+        "symptoms": "recurring dressing",
+        "date": "2026-07-27T13:29:48.552Z",
+        "id": "REC-2658",
+        "ailment": "Investigation ongoing",
+        "extraServices": [
+          {
+            "cost": 500,
+            "serviceId": "srv_dressing",
+            "name": "Wound Dressing & Cleaning"
+          }
+        ]
+      },
+      {
+        "ailment": "uti",
+        "patientId": "000000",
+        "date": "2026-07-27T12:46:28.234Z",
+        "prescriptionStatus": "fully_dispatched",
+        "prescription": {
+          "pharmacistNotes": "complete",
+          "medications": [
+            {
+              "qtyRequested": 10,
+              "dosage": "555",
+              "qtyDispatched": 10,
+              "name": "rry"
+            }
+          ],
+          "doctorNotes": "",
+          "dispatchedAt": "2026-07-27T13:22:14.110Z",
+          "dispenseHistory": [
+            {
+              "pharmacistName": "System Administrator (Admin)",
+              "qtyDispensed": 5,
+              "date": "2026-07-27T13:22:02.236Z",
+              "medicationName": "rry",
+              "remainingBalance": 5
+            },
+            {
+              "remainingBalance": 0,
+              "qtyDispensed": 5,
+              "pharmacistName": "System Administrator (Admin)",
+              "medicationName": "rry",
+              "date": "2026-07-27T13:22:14.110Z"
+            }
+          ],
+          "prescribedAt": "2026-07-27T13:21:42.567Z"
+        },
+        "extraServices": [
+          {
+            "serviceId": "srv_dressing",
+            "cost": 500,
+            "name": "Wound Dressing & Cleaning"
+          }
+        ],
+        "id": "REC-8514",
+        "symptoms": "test done\n\n",
+        "labRequest": {
+          "completedAt": "2026-07-27T13:18:10.029Z",
+          "technicianId": "TECH-ALPHA",
+          "testIds": [
+            "test_481"
+          ],
+          "notes": "",
+          "results": [
+            {
+              "unit": ".",
+              "value": "5",
+              "parameterName": "Ketone",
+              "parameterId": "param_337",
+              "normalRange": "neg."
+            },
+            {
+              "value": "6",
+              "unit": ".",
+              "parameterName": "Epithilial Cells",
+              "normalRange": ".",
+              "parameterId": "param_974"
+            },
+            {
+              "value": "7",
+              "unit": ".",
+              "parameterName": "Glucose",
+              "normalRange": "norm.",
+              "parameterId": "param_144"
+            },
+            {
+              "normalRange": "neg.",
+              "parameterId": "param_760",
+              "parameterName": "Protein",
+              "unit": ".",
+              "value": "8"
+            },
+            {
+              "normalRange": "norm.",
+              "parameterId": "param_561",
+              "parameterName": "Urobilinogen",
+              "value": "9",
+              "unit": "."
+            },
+            {
+              "parameterName": "Bilirubin",
+              "unit": ".",
+              "value": "4",
+              "parameterId": "param_570",
+              "normalRange": "neg."
+            },
+            {
+              "parameterName": "Leukocytes",
+              "value": "3",
+              "unit": ".",
+              "normalRange": "neg.",
+              "parameterId": "param_393"
+            },
+            {
+              "normalRange": ".",
+              "parameterId": "param_551",
+              "parameterName": "Bacteria",
+              "value": "3",
+              "unit": "."
+            },
+            {
+              "value": "3",
+              "unit": ".",
+              "parameterName": "Urine pH",
+              "parameterId": "param_955",
+              "normalRange": "5"
+            },
+            {
+              "normalRange": ".",
+              "parameterId": "param_619",
+              "value": "7",
+              "unit": ".",
+              "parameterName": "Purse Cells"
+            },
+            {
+              "parameterId": "param_317",
+              "normalRange": "1.000",
+              "value": "7",
+              "unit": ".",
+              "parameterName": "Specific Gravity"
+            },
+            {
+              "normalRange": "neg.",
+              "parameterId": "param_162",
+              "unit": ".",
+              "value": "nill",
+              "parameterName": "Nitrite"
+            }
+          ],
+          "requestedAt": "2026-07-27T12:46:28.234Z"
+        },
+        "labStatus": "completed"
+      },
+      {
+        "ailment": "Investigation ongoing",
+        "prescriptionStatus": "none",
+        "patientId": "000000",
+        "date": "2026-07-27T12:32:31.044Z",
+        "id": "REC-6842",
+        "extraServices": [],
+        "labStatus": "completed",
+        "symptoms": "test",
+        "labRequest": {
+          "technicianId": "TECH-ALPHA",
+          "completedAt": "2026-07-27T13:18:55.199Z",
+          "notes": "ryreyryreyeyrey",
+          "testIds": [
+            "test_813",
+            "test_fbc"
+          ],
+          "results": [
+            {
+              "unit": "g/dL",
+              "value": "57",
+              "parameterName": "HGB",
+              "normalRange": "12.0 - 16.0",
+              "parameterId": "param_hb"
+            },
+            {
+              "normalRange": "4.0 - 12.0",
+              "parameterId": "param_wbc",
+              "unit": "10^9/L",
+              "value": "57",
+              "parameterName": "White Blood Cells (WBC)"
+            },
+            {
+              "unit": "10^9/L",
+              "value": "75",
+              "parameterName": "Platelet Count (PLT)",
+              "parameterId": "param_plt",
+              "normalRange": "150 - 450"
+            },
+            {
+              "normalRange": "neg.",
+              "parameterId": "param_337",
+              "parameterName": "Ketone",
+              "unit": ".",
+              "value": "5"
+            },
+            {
+              "parameterId": "param_367",
+              "normalRange": "20.0-60.0",
+              "unit": "%",
+              "value": "75",
+              "parameterName": "Lymph%"
+            },
+            {
+              "normalRange": "3.50-5.20",
+              "parameterId": "param_350",
+              "value": "75",
+              "unit": "10^12/L",
+              "parameterName": "RBC"
+            },
+            {
+              "value": "56",
+              "unit": "%",
+              "parameterName": "HCT",
+              "parameterId": "param_181",
+              "normalRange": "35.0-49.0"
+            },
+            {
+              "normalRange": "3.0-14.0",
+              "parameterId": "param_887",
+              "value": "nil",
+              "unit": "%",
+              "parameterName": "Mid%"
+            },
+            {
+              "parameterId": "param_843",
+              "normalRange": "0.1-1.2",
+              "parameterName": "Mid#",
+              "value": "nil",
+              "unit": "10^9/L"
+            },
+            {
+              "parameterName": "Gran%",
+              "value": "nil",
+              "unit": "%",
+              "parameterId": "param_772",
+              "normalRange": "50.0-70.0"
+            },
+            {
+              "parameterName": "Gran#",
+              "value": "nil",
+              "unit": "10^9/L",
+              "normalRange": "2.0-8.0",
+              "parameterId": "param_808"
+            },
+            {
+              "parameterId": "param_471",
+              "normalRange": ".",
+              "parameterName": "Amoeba",
+              "unit": ".",
+              "value": "5465"
+            },
+            {
+              "unit": ".",
+              "value": "35435",
+              "parameterName": "Giardia Lamblia",
+              "normalRange": ".",
+              "parameterId": "param_552"
+            },
+            {
+              "parameterId": "param_224",
+              "normalRange": ".",
+              "value": "nill",
+              "unit": ".",
+              "parameterName": "Worms"
+            }
+          ],
+          "requestedAt": "2026-07-27T12:32:31.044Z"
+        }
+      },
+      {
+        "patientId": "000000",
+        "date": "2026-07-27T11:57:00.987Z",
+        "prescriptionStatus": "fully_dispatched",
+        "ailment": "Investigation ongoing",
+        "symptoms": "ipipip",
+        "labStatus": "none",
+        "prescription": {
+          "dispenseHistory": [
+            {
+              "remainingBalance": 0,
+              "pharmacistName": "System Administrator (Admin)",
+              "qtyDispensed": 10,
+              "date": "2026-07-27T13:22:20.233Z",
+              "medicationName": "pppp"
+            }
+          ],
+          "medications": [
+            {
+              "qtyRequested": 10,
+              "dosage": "ppp",
+              "qtyDispatched": 10,
+              "name": "pppp"
+            }
+          ],
+          "pharmacistNotes": "",
+          "doctorNotes": "",
+          "dispatchedAt": "2026-07-27T13:22:20.233Z",
+          "prescribedAt": "2026-07-27T11:57:00.987Z"
+        },
+        "extraServices": [],
+        "id": "REC-8592"
+      },
+      {
+        "symptoms": "fffff",
+        "labStatus": "none",
+        "extraServices": [],
+        "id": "REC-1413",
+        "prescription": {
+          "prescribedAt": "2026-07-27T11:56:21.465Z",
+          "doctorNotes": "",
+          "dispatchedAt": "2026-07-27T13:22:24.564Z",
+          "medications": [
+            {
+              "name": "yytry",
+              "qtyDispatched": 10,
+              "dosage": "67",
+              "qtyRequested": 10
+            }
+          ],
+          "pharmacistNotes": "",
+          "dispenseHistory": [
+            {
+              "remainingBalance": 0,
+              "qtyDispensed": 10,
+              "pharmacistName": "System Administrator (Admin)",
+              "medicationName": "yytry",
+              "date": "2026-07-27T13:22:24.564Z"
+            }
+          ]
+        },
+        "date": "2026-07-27T11:56:21.465Z",
+        "patientId": "000000",
+        "prescriptionStatus": "fully_dispatched",
+        "ailment": "iiiii"
+      },
+      {
+        "labStatus": "none",
+        "symptoms": "fffff",
+        "id": "REC-3912",
+        "extraServices": [],
+        "prescription": {
+          "prescribedAt": "2026-07-27T11:56:03.527Z",
+          "dispenseHistory": [
+            {
+              "remainingBalance": 0,
+              "date": "2026-07-27T13:22:27.612Z",
+              "medicationName": "yytry",
+              "pharmacistName": "System Administrator (Admin)",
+              "qtyDispensed": 10
+            }
+          ],
+          "pharmacistNotes": "",
+          "medications": [
+            {
+              "dosage": "67",
+              "qtyRequested": 10,
+              "name": "yytry",
+              "qtyDispatched": 10
+            }
+          ],
+          "doctorNotes": "",
+          "dispatchedAt": "2026-07-27T13:22:27.612Z"
+        },
+        "prescriptionStatus": "fully_dispatched",
+        "date": "2026-07-27T11:56:03.527Z",
+        "patientId": "000000",
+        "ailment": "Investigation ongoing"
+      },
+      {
+        "labStatus": "completed",
+        "labRequest": {
+          "notes": "",
+          "testIds": [
+            "test_132"
+          ],
+          "technicianId": "TECH-ALPHA",
+          "completedAt": "2026-07-27T11:54:08.725Z",
+          "requestedAt": "2026-07-27T11:53:42.862Z",
+          "results": [
+            {
+              "parameterName": "Blood Grouping",
+              "unit": ".",
+              "value": "A Resus +",
+              "parameterId": "param_443",
+              "normalRange": "A-O"
+            }
+          ]
+        },
+        "symptoms": "jjjjjjfffefef",
+        "id": "REC-8308",
+        "extraServices": [],
+        "prescription": {
+          "doctorNotes": "ooo",
+          "dispatchedAt": "2026-07-27T13:22:30.505Z",
+          "pharmacistNotes": "",
+          "medications": [
+            {
+              "dosage": "efef",
+              "qtyRequested": 10,
+              "name": "efefe",
+              "qtyDispatched": 10
+            }
+          ],
+          "dispenseHistory": [
+            {
+              "remainingBalance": 0,
+              "date": "2026-07-27T13:22:30.505Z",
+              "medicationName": "efefe",
+              "pharmacistName": "System Administrator (Admin)",
+              "qtyDispensed": 10
+            }
+          ],
+          "prescribedAt": "2026-07-27T11:55:34.541Z"
+        },
+        "prescriptionStatus": "fully_dispatched",
+        "date": "2026-07-27T11:53:42.862Z",
+        "patientId": "000000",
+        "ailment": "Investigation ongoing"
+      }
+    ],
+    "categories": [
+      {
+        "name": "Hematology",
+        "id": "cat_hem",
+        "description": "Blood cell counts and coagulation parameters"
+      },
+      {
+        "description": "Metabolic and organ-function chemical testing",
+        "id": "cat_bio",
+        "name": "Biochemistry"
+      },
+      {
+        "name": "Urinalysis",
+        "id": "cat_uri",
+        "description": "Chemical and microscopic analysis of urine"
+      },
+      {
+        "name": "Stool",
+        "id": "cat_134",
+        "description": ""
+      },
+      {
+        "name": "Blood",
+        "description": "",
+        "id": "cat_165"
+      },
+      {
+        "name": "Urine",
+        "description": "",
+        "id": "cat_880"
+      },
+      {
+        "name": "STI",
+        "description": "",
+        "id": "cat_599"
+      }
+    ],
+    "units": [
+      {
+        "id": "u_gd",
+        "description": "Grams per deciliter",
+        "name": "g/dL"
+      },
+      {
+        "name": "mg/dL",
+        "id": "u_mgd",
+        "description": "Milligrams per deciliter"
+      },
+      {
+        "id": "u_mmol",
+        "description": "Millimoles per liter",
+        "name": "mmol/L"
+      },
+      {
+        "name": "10^9/L",
+        "description": "Billion cells per liter",
+        "id": "u_cells"
+      },
+      {
+        "name": "%",
+        "description": "Percentage",
+        "id": "u_pct"
+      },
+      {
+        "id": "u_ph",
+        "description": "Potential of Hydrogen scale",
+        "name": "pH"
+      },
+      {
+        "id": "u_706",
+        "description": "",
+        "name": "-"
+      },
+      {
+        "id": "u_856",
+        "description": "",
+        "name": "."
+      },
+      {
+        "name": "10^12/L",
+        "description": "Billion cells per liter",
+        "id": "u_370"
+      }
+    ],
+    "parameters": [
+      {
+        "normalRange": "12.0 - 16.0",
+        "name": "HGB",
+        "id": "param_hb",
+        "unitId": "u_gd",
+        "categoryId": "cat_hem"
+      },
+      {
+        "name": "White Blood Cells (WBC)",
+        "normalRange": "4.0 - 12.0",
+        "categoryId": "cat_hem",
+        "unitId": "u_cells",
+        "id": "param_wbc"
+      },
+      {
+        "normalRange": "150 - 450",
+        "name": "Platelet Count (PLT)",
+        "categoryId": "cat_hem",
+        "unitId": "u_cells",
+        "id": "param_plt"
+      },
+      {
+        "categoryId": "cat_165",
+        "id": "param_fbs",
+        "unitId": "u_mgd",
+        "name": "Fasting Blood Sugar",
+        "normalRange": "70 - 100"
+      },
+      {
+        "normalRange": "0.6 - 1.2",
+        "name": "Serum Creatinine",
+        "unitId": "u_mgd",
+        "id": "param_creat",
+        "categoryId": "cat_bio"
+      },
+      {
+        "unitId": "u_ph",
+        "id": "param_uph",
+        "categoryId": "cat_uri",
+        "normalRange": "4.5 - 8.0",
+        "name": "Urine pH"
+      },
+      {
+        "categoryId": "cat_880",
+        "id": "param_168",
+        "unitId": "u_856",
+        "name": "Pregnancy",
+        "normalRange": "+/-"
+      },
+      {
+        "unitId": "u_856",
+        "id": "param_634",
+        "categoryId": "cat_165",
+        "name": "Pregnancy",
+        "normalRange": "+/-"
+      },
+      {
+        "normalRange": "A, B, O",
+        "name": "Blood Grouping",
+        "id": "param_443",
+        "categoryId": "cat_165",
+        "unitId": "u_856"
+      },
+      {
+        "unitId": "u_856",
+        "categoryId": "cat_165",
+        "id": "param_528",
+        "normalRange": "+/-",
+        "name": "Blood Test"
+      },
+      {
+        "unitId": "u_856",
+        "categoryId": "cat_880",
+        "id": "param_337",
+        "name": "Ketone",
+        "normalRange": "neg."
+      },
+      {
+        "name": "Mid#",
+        "normalRange": "0.1-1.2",
+        "unitId": "u_cells",
+        "id": "param_843",
+        "categoryId": "cat_hem"
+      },
+      {
+        "name": "Gran#",
+        "normalRange": "2.0-8.0",
+        "unitId": "u_cells",
+        "id": "param_808",
+        "categoryId": "cat_hem"
+      },
+      {
+        "id": "param_367",
+        "categoryId": "cat_hem",
+        "unitId": "u_pct",
+        "name": "Lymph%",
+        "normalRange": "20.0-60.0"
+      },
+      {
+        "unitId": "u_pct",
+        "id": "param_887",
+        "categoryId": "cat_hem",
+        "name": "Mid%",
+        "normalRange": "3.0-14.0"
+      },
+      {
+        "unitId": "u_pct",
+        "categoryId": "cat_hem",
+        "id": "param_772",
+        "name": "Gran%",
+        "normalRange": "50.0-70.0"
+      },
+      {
+        "unitId": "u_370",
+        "categoryId": "cat_hem",
+        "id": "param_350",
+        "normalRange": "3.50-5.20",
+        "name": "RBC"
+      },
+      {
+        "normalRange": "35.0-49.0",
+        "name": "HCT",
+        "categoryId": "cat_hem",
+        "unitId": "u_pct",
+        "id": "param_181"
+      },
+      {
+        "normalRange": "0",
+        "name": "H Pylory Antigen",
+        "unitId": "u_856",
+        "id": "param_658",
+        "categoryId": "cat_134"
+      },
+      {
+        "id": "param_389",
+        "categoryId": "cat_165",
+        "unitId": "u_856",
+        "normalRange": "+/-",
+        "name": "H Pylory Antibody"
+      },
+      {
+        "normalRange": "+/-",
+        "name": "Salmonella Antibody",
+        "id": "param_398",
+        "categoryId": "cat_165",
+        "unitId": "u_856"
+      },
+      {
+        "name": "Salmonella Antigen",
+        "normalRange": "+/-",
+        "unitId": "u_856",
+        "id": "param_323",
+        "categoryId": "cat_134"
+      },
+      {
+        "categoryId": "cat_599",
+        "id": "param_942",
+        "unitId": "u_856",
+        "name": "Discharge",
+        "normalRange": "+/-"
+      },
+      {
+        "unitId": "u_856",
+        "categoryId": "cat_134",
+        "id": "param_224",
+        "normalRange": ".",
+        "name": "Worms"
+      },
+      {
+        "categoryId": "cat_134",
+        "unitId": "u_856",
+        "id": "param_471",
+        "normalRange": ".",
+        "name": "Amoeba"
+      },
+      {
+        "name": "Giardia Lamblia",
+        "normalRange": ".",
+        "id": "param_552",
+        "categoryId": "cat_134",
+        "unitId": "u_856"
+      },
+      {
+        "name": "Bacteria",
+        "normalRange": ".",
+        "unitId": "u_856",
+        "categoryId": "cat_880",
+        "id": "param_551"
+      },
+      {
+        "id": "param_619",
+        "unitId": "u_856",
+        "categoryId": "cat_880",
+        "normalRange": ".",
+        "name": "Purse Cells"
+      },
+      {
+        "normalRange": ".",
+        "name": "Epithilial Cells",
+        "categoryId": "cat_880",
+        "id": "param_974",
+        "unitId": "u_856"
+      },
+      {
+        "normalRange": "5",
+        "name": "Urine pH",
+        "unitId": "u_856",
+        "categoryId": "cat_880",
+        "id": "param_955"
+      },
+      {
+        "categoryId": "cat_880",
+        "id": "param_317",
+        "unitId": "u_856",
+        "name": "Specific Gravity",
+        "normalRange": "1.000"
+      },
+      {
+        "name": "Glucose",
+        "normalRange": "norm.",
+        "categoryId": "cat_880",
+        "id": "param_144",
+        "unitId": "u_856"
+      },
+      {
+        "name": "Leukocytes",
+        "normalRange": "neg.",
+        "categoryId": "cat_880",
+        "id": "param_393",
+        "unitId": "u_856"
+      },
+      {
+        "normalRange": "neg.",
+        "name": "Nitrite",
+        "id": "param_162",
+        "categoryId": "cat_880",
+        "unitId": "u_856"
+      },
+      {
+        "name": "Protein",
+        "normalRange": "neg.",
+        "categoryId": "cat_880",
+        "id": "param_760",
+        "unitId": "u_856"
+      },
+      {
+        "id": "param_664",
+        "unitId": "u_856",
+        "categoryId": "cat_880",
+        "normalRange": "neg.",
+        "name": "Blood"
+      },
+      {
+        "categoryId": "cat_880",
+        "id": "param_337",
+        "unitId": "u_856",
+        "normalRange": "neg.",
+        "name": "Kelotone"
+      },
+      {
+        "id": "param_561",
+        "unitId": "u_856",
+        "categoryId": "cat_880",
+        "normalRange": "norm.",
+        "name": "Urobilinogen"
+      },
+      {
+        "normalRange": "neg.",
+        "name": "Bilirubin",
+        "categoryId": "cat_880",
+        "unitId": "u_856",
+        "id": "param_570"
+      },
+      {
+        "unitId": "u_856",
+        "categoryId": "cat_165",
+        "id": "param_719",
+        "normalRange": "+/-",
+        "name": "Streptococcus"
+      },
+      {
+        "normalRange": "+/-",
+        "name": "Syphillis",
+        "unitId": "u_856",
+        "id": "param_710",
+        "categoryId": "cat_599"
+      },
+      {
+        "id": "param_321",
+        "unitId": "u_856",
+        "categoryId": "cat_165",
+        "name": "Brucellosis",
+        "normalRange": "+/-"
+      },
+      {
+        "unitId": "u_856",
+        "id": "param_852",
+        "categoryId": "cat_165",
+        "normalRange": "+/-",
+        "name": "Anthritis"
+      },
+      {
+        "name": "Bacteria",
+        "normalRange": "+/-",
+        "unitId": "u_856",
+        "categoryId": "cat_165",
+        "id": "param_692"
+      },
+      {
+        "normalRange": "+/-",
+        "name": "Septicaemia",
+        "id": "param_233",
+        "categoryId": "cat_165",
+        "unitId": "u_856"
+      },
+      {
+        "normalRange": "+/-",
+        "name": "Rhematoid Anthritis",
+        "unitId": "u_856",
+        "id": "param_655",
+        "categoryId": "cat_165"
+      },
+      {
+        "name": "Malaria",
+        "normalRange": "+/-",
+        "id": "param_353",
+        "categoryId": "cat_165",
+        "unitId": "u_856"
+      },
+      {
+        "id": "param_214",
+        "unitId": "u_856",
+        "categoryId": "cat_165",
+        "normalRange": "+/-",
+        "name": "Malaria - MRDT"
+      },
+      {
+        "unitId": "u_mgd",
+        "id": "param_730",
+        "categoryId": "cat_165",
+        "normalRange": "70-100",
+        "name": "Random Blood Sugar"
+      },
+      {
+        "normalRange": ".",
+        "name": "Hepatitis B Virus",
+        "id": "param_777",
+        "categoryId": "cat_165",
+        "unitId": "u_856"
+      }
+    ],
+    "tests": [
+      {
+        "name": "Full Blood Count (FBC)",
+        "parameterIds": [
+          "param_hb",
+          "param_wbc",
+          "param_plt",
+          "param_337",
+          "param_367",
+          "param_350",
+          "param_181",
+          "param_887",
+          "param_843",
+          "param_772",
+          "param_808"
+        ],
+        "categoryId": "cat_hem",
+        "cost": 600,
+        "id": "test_fbc"
+      },
+      {
+        "name": "Fasting Blood Sugar (FBS)",
+        "parameterIds": [
+          "param_fbs"
+        ],
+        "id": "test_fbs",
+        "categoryId": "cat_bio",
+        "cost": 800
+      },
+      {
+        "parameterIds": [
+          "param_creat"
+        ],
+        "name": "Kidney Function Test (Creatinine)",
+        "categoryId": "cat_bio",
+        "cost": 1200,
+        "id": "test_renal"
+      },
+      {
+        "cost": 600,
+        "id": "test_urinalysis",
+        "categoryId": "cat_uri",
+        "parameterIds": [
+          "param_uph"
+        ],
+        "name": "Routine Urinalysis"
+      },
+      {
+        "parameterIds": [
+          "param_168"
+        ],
+        "name": "Pregnancy Test - Urine",
+        "id": "test_761",
+        "cost": 100,
+        "categoryId": "cat_880"
+      },
+      {
+        "cost": 250,
+        "categoryId": "cat_165",
+        "id": "test_464",
+        "name": "Pregnancy Test - Serum",
+        "parameterIds": [
+          "param_634"
+        ]
+      },
+      {
+        "cost": 250,
+        "id": "test_132",
+        "categoryId": "cat_165",
+        "name": "Blood Grouping Resus",
+        "parameterIds": [
+          "param_443"
+        ]
+      },
+      {
+        "categoryId": "cat_165",
+        "cost": 150,
+        "id": "test_748",
+        "parameterIds": [
+          "param_528"
+        ],
+        "name": "HIV Test"
+      },
+      {
+        "name": "H Pylory Antigen",
+        "parameterIds": [
+          "param_658"
+        ],
+        "cost": 350,
+        "categoryId": "cat_134",
+        "id": "test_455"
+      },
+      {
+        "parameterIds": [
+          "param_389"
+        ],
+        "name": "H Pylory Antibody",
+        "categoryId": "cat_165",
+        "cost": 300,
+        "id": "test_181"
+      },
+      {
+        "parameterIds": [
+          "param_398"
+        ],
+        "name": "Salmonella Antibody",
+        "id": "test_873",
+        "cost": 300,
+        "categoryId": "cat_165"
+      },
+      {
+        "categoryId": "cat_134",
+        "cost": 350,
+        "id": "test_313",
+        "name": "Salmonella Antigen",
+        "parameterIds": [
+          "param_323"
+        ]
+      },
+      {
+        "name": "HVS",
+        "parameterIds": [
+          "param_942"
+        ],
+        "categoryId": "cat_599",
+        "id": "test_870",
+        "cost": 400
+      },
+      {
+        "cost": 200,
+        "id": "test_813",
+        "categoryId": "cat_134",
+        "name": "Stool Microscopy",
+        "parameterIds": [
+          "param_471",
+          "param_552",
+          "param_224"
+        ]
+      },
+      {
+        "parameterIds": [
+          "param_337",
+          "param_974",
+          "param_144",
+          "param_760",
+          "param_561",
+          "param_570",
+          "param_393",
+          "param_551",
+          "param_955",
+          "param_619",
+          "param_317",
+          "param_162"
+        ],
+        "name": "Urinalysis Test",
+        "id": "test_481",
+        "cost": 200,
+        "categoryId": "cat_880"
+      },
+      {
+        "name": "PBF",
+        "parameterIds": [
+          "param_350",
+          "param_wbc",
+          "param_887"
+        ],
+        "id": "test_346",
+        "cost": 200,
+        "categoryId": "cat_hem"
+      },
+      {
+        "categoryId": "cat_165",
+        "cost": 350,
+        "id": "test_457",
+        "name": "ASOT",
+        "parameterIds": [
+          "param_719"
+        ]
+      },
+      {
+        "cost": 300,
+        "id": "test_155",
+        "categoryId": "cat_599",
+        "parameterIds": [
+          "param_710"
+        ],
+        "name": "VDRL"
+      },
+      {
+        "cost": 350,
+        "categoryId": "cat_165",
+        "id": "test_806",
+        "name": "Brucela Test",
+        "parameterIds": [
+          "param_321"
+        ]
+      },
+      {
+        "cost": 350,
+        "categoryId": "cat_165",
+        "id": "test_608",
+        "parameterIds": [
+          "param_233",
+          "param_852",
+          "param_692"
+        ],
+        "name": "CRP"
+      },
+      {
+        "parameterIds": [
+          "param_655"
+        ],
+        "name": "Rhematoid Factor",
+        "cost": 350,
+        "id": "test_427",
+        "categoryId": "cat_165"
+      },
+      {
+        "categoryId": "cat_165",
+        "id": "test_671",
+        "cost": 200,
+        "name": "BS for MPs",
+        "parameterIds": [
+          "param_353"
+        ]
+      },
+      {
+        "id": "test_218",
+        "categoryId": "cat_165",
+        "cost": 150,
+        "name": "MRDT",
+        "parameterIds": [
+          "param_214"
+        ]
+      },
+      {
+        "parameterIds": [
+          "param_fbs",
+          "param_730"
+        ],
+        "name": "Blood Sugar Test",
+        "id": "test_383",
+        "cost": 100,
+        "categoryId": "cat_165"
+      },
+      {
+        "categoryId": "cat_165",
+        "id": "test_578",
+        "cost": 300,
+        "name": "Hepatitis B Test",
+        "parameterIds": [
+          "param_777"
+        ]
+      }
+    ],
+    "extraServices": [
+      {
+        "name": "Wound Dressing & Cleaning",
+        "description": "Cleaning, antiseptic application, and sterile dressing of open wounds",
+        "id": "srv_dressing",
+        "cost": 500
+      },
+      {
+        "cost": 2500,
+        "description": "Local anesthesia administration and stitching of minor lacerations",
+        "id": "srv_stitching",
+        "name": "Minor Suturing (Stitching)"
+      },
+      {
+        "name": "Asthma Nebulization",
+        "id": "srv_nebulization",
+        "cost": 1200,
+        "description": "Administration of bronchodilator mist therapy"
+      },
+      {
+        "id": "srv_injection",
+        "cost": 400,
+        "description": "Administration of prescribed IM injection by clinical nurse",
+        "name": "Intramuscular Injection"
+      }
+    ],
+    "users": [
+      {
+        "id": "u_adm",
+        "username": "admin",
+        "createdAt": "2026-07-19T00:00:00.000Z",
+        "name": "System Administrator (Admin)",
+        "password": "admin@#254",
+        "role": "Admin"
+      },
+      {
+        "createdAt": "2026-07-27T13:09:39.949Z",
+        "name": "Lab",
+        "password": "lab123",
+        "role": "LabTech",
+        "username": "lab",
+        "id": "u_1947"
+      },
+      {
+        "username": "james",
+        "id": "u_4227",
+        "role": "LabTech",
+        "password": "lab123",
+        "name": "James",
+        "createdAt": "2026-07-27T13:10:14.698Z"
+      },
+      {
+        "id": "u_2955",
+        "username": "felistus",
+        "role": "LabTech",
+        "name": "Felistus",
+        "password": "lab123",
+        "createdAt": "2026-07-27T13:10:39.040Z"
+      },
+      {
+        "id": "u_9294",
+        "username": "constatin",
+        "role": "LabTech",
+        "password": "lab123",
+        "name": "Constatin",
+        "createdAt": "2026-07-27T13:11:00.422Z"
+      },
+      {
+        "createdAt": "2026-07-27T13:11:22.090Z",
+        "name": "Rotich",
+        "password": "lab123",
+        "role": "LabTech",
+        "id": "u_3303",
+        "username": "rotich"
+      },
+      {
+        "username": "esau",
+        "id": "u_9697",
+        "createdAt": "2026-07-27T13:11:32.526Z",
+        "name": "Esau",
+        "password": "lab123",
+        "role": "LabTech"
+      },
+      {
+        "role": "Pharmacist",
+        "name": "Janet",
+        "password": "janet123",
+        "createdAt": "2026-07-27T13:12:51.629Z",
+        "id": "u_6212",
+        "username": "janet"
+      },
+      {
+        "name": "Milka",
+        "password": "milka1010",
+        "createdAt": "2026-07-27T13:13:32.132Z",
+        "role": "Pharmacist",
+        "id": "u_7162",
+        "username": "milka"
+      },
+      {
+        "id": "u_2247",
+        "username": "william",
+        "password": "william2020",
+        "name": "WIlliam",
+        "createdAt": "2026-07-27T13:14:10.280Z",
+        "role": "Doctor"
+      },
+      {
+        "id": "u_5534",
+        "username": "juma",
+        "password": "juma963",
+        "name": "Juma Julius Odhiambo",
+        "role": "Doctor",
+        "createdAt": "2026-07-27T17:45:28.530Z"
+      },
+      {
+        "id": "u_6380",
+        "username": "vida",
+        "password": "vida254",
+        "name": "Vida",
+        "role": "Pharmacist",
+        "createdAt": "2026-07-27T17:53:53.989Z"
+      }
+    ]
+  }
+}
